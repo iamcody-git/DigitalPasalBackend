@@ -18,6 +18,8 @@
     "@types/dotenv": "^8.2.3",
     "@types/express": "^5.0.0",
     "@types/nodemon": "^1.19.6",
+    "pg": "^8.13.1",
+    "sequelize-typescript": "^2.1.6",
     "ts-node": "^10.9.2",
     "tsx": "^4.19.2"
   }
